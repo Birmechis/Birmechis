@@ -1,10 +1,14 @@
-# 👋 Hi, I'm Birmachis Mulugeta
+         # 👋 Hi, I'm Birmachis
 
 💡 Software Developer | AI Enthusiast | System Builder
 
-I build real-world systems that solve organizational problems  from internal portals to AI-driven applications.
+         I build real-world systems 
 
 ---
+
+
+
+
 
 ## 🚀 What I Do
 
