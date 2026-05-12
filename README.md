@@ -1,16 +1,59 @@
-## Hi there 👋
+# 👋 Hi, I'm Birmachis Mulugeta
 
-<!--
-**Birmechis/Birmechis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💡 Software Developer | AI Enthusiast | System Builder
 
-Here are some ideas to get you started:
+I build real-world systems that solve organizational problems  from internal portals to AI-driven applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 What I Do
+
+* 🔹 Build full-stack applications (Web & Mobile)
+* 🔹 Develop AI-powered tools and automation workflows
+
+---
+
+## 🧠 Tech Stack
+
+### 💻 Languages
+
+* TypeScript, JavaScript, Python
+
+### ⚙️ Frameworks & Tools
+
+* React, React Native, Expo
+* Git & GitHub
+
+
+## 🔥 Featured Projects
+
+### 📌 Inter-Institutional Portal
+
+* Built an internal API-driven system connecting departments
+* Secure API access for internal services
+* Focus: scalability + system integration
+
+### 📌 AI Agent Projects 
+
+* Multi-agent systems for automation
+* Real-world workflows (finance, healthcare, security)
+
+---
+
+## 🌱 Currently Learning
+
+* system design
+* Scalable backend architecture
+
+---
+
+## 📫 Contact Me
+
+* GitHub: https://github.com/YOUR_USERNAME
+* Email: birmechis.m@gmail.com
+
+---
+
+## ⚡ Fun Fact
+
+I enjoy building systems that people actually use — not just demo projects.
