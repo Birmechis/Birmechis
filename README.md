@@ -26,7 +26,7 @@
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/Birmechis/Birmechis
+* GitHub: https://github.com/Birmechis
 * Email: bgmule4@gmail.com
 
 ---
