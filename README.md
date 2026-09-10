@@ -1,21 +1,9 @@
          # 👋 Hi, I'm Birmachis
 
-💡 Software Developer | AI Enthusiast | System Builder
+💡 Software Developer | Backend engineer 
 
          I build real-world systems 
 
----
-
-
-
-
-
-## 🚀 What I Do
-
-* 🔹 Build full-stack applications (Web & Mobile)
-* 🔹 Develop AI-powered tools and automation workflows
-
----
 
 ## 🧠 Tech Stack
 
@@ -25,24 +13,9 @@
 
 ### ⚙️ Frameworks & Tools
 
-* React, React Native, Expo
+* flask, React Native, Expo, 
 * Git & GitHub
 
-
-## 🔥 Featured Projects
-
-### 📌 Inter-Institutional Portal
-
-* Built an internal API-driven system connecting departments
-* Secure API access for internal services
-* Focus: scalability + system integration
-
-### 📌 AI Agent Projects 
-
-* Multi-agent systems for automation
-* Real-world workflows (finance, healthcare, security)
-
----
 
 ## 🌱 Currently Learning
 
@@ -53,8 +26,8 @@
 
 ## 📫 Contact Me
 
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: birmechis.m@gmail.com
+* GitHub: https://github.com/Birmechis/Birmechis
+* Email: bgmule4@gmail.com
 
 ---
 
