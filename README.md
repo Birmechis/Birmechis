@@ -1,36 +1,31 @@
-         # 👋 Hi, I'm Birmachis
+# 👋 Hi, I'm Birmachis
 
-💡 Software Developer | Backend engineer 
+### Junior Backend Developer
 
-         I build real-world systems 
+I build backend systems and APIs, focusing on clean code, problem-solving, and scalable solutions.
 
+### 🛠️ Tech Stack
 
-## 🧠 Tech Stack
+**Languages**
+- JavaScript, TypeScript, Python
 
-### 💻 Languages
+**Frameworks & Tools**
+- Flask, fastapi
+- Git & GitHub
 
-* TypeScript, JavaScript, Python
+**Other Interests**
+- REST APIs
+- Backend Architecture
+- Database Design
 
-### ⚙️ Frameworks & Tools
+### 🌱 Currently Learning
+- Scalable Backend Architecture
+- System Design
 
-* flask, React Native, Expo, 
-* Git & GitHub
-
-
-## 🌱 Currently Learning
-
-* system design
-* Scalable backend architecture
-
----
-
-## 📫 Contact Me
-
-* GitHub: https://github.com/Birmechis
-* Email: bgmule4@gmail.com
+### 📫 Connect With Me
+- **GitHub:** [@Birmechis](https://github.com/Birmechis)
+- **Email:** [bgmule4@gmail.com](mailto:bgmule4@gmail.com)
 
 ---
 
-## ⚡ Fun Fact
-
-I enjoy building systems that people actually use — not just demo projects.
+💡 *I enjoy building practical software solutions and continuously improving my engineering skills.*
