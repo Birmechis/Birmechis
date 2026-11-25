@@ -7,7 +7,7 @@ I build backend systems and APIs, focusing on clean code, problem-solving, and s
 ### 🛠️ Tech Stack
 
 **Languages**
-- JavaScript, TypeScript, Python
+- Python, Javascript
 
 **Frameworks & Tools**
 - Flask, fastapi
